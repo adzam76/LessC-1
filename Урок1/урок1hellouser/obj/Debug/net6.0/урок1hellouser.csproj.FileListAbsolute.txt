@@ -1,0 +1,15 @@
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\bin\Debug\net6.0\урок1hellouser.exe
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\bin\Debug\net6.0\урок1hellouser.deps.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\bin\Debug\net6.0\урок1hellouser.runtimeconfig.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\bin\Debug\net6.0\урок1hellouser.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\bin\Debug\net6.0\урок1hellouser.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.csproj.AssemblyReference.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.AssemblyInfoInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.AssemblyInfo.cs
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.csproj.CoreCompileInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\refint\урок1hellouser.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\урок1hellouser.genruntimeconfig.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1hellouser\obj\Debug\net6.0\ref\урок1hellouser.dll
