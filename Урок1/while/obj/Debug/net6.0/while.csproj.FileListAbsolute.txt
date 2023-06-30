@@ -1,0 +1,15 @@
+D:\Desktop\Изучение C# повторение\Урок1\while\bin\Debug\net6.0\while.exe
+D:\Desktop\Изучение C# повторение\Урок1\while\bin\Debug\net6.0\while.deps.json
+D:\Desktop\Изучение C# повторение\Урок1\while\bin\Debug\net6.0\while.runtimeconfig.json
+D:\Desktop\Изучение C# повторение\Урок1\while\bin\Debug\net6.0\while.dll
+D:\Desktop\Изучение C# повторение\Урок1\while\bin\Debug\net6.0\while.pdb
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.csproj.AssemblyReference.cache
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.dll
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\refint\while.dll
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.pdb
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\while.genruntimeconfig.cache
+D:\Desktop\Изучение C# повторение\Урок1\while\obj\Debug\net6.0\ref\while.dll
