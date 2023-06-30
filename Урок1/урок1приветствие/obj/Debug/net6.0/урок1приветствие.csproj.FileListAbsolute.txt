@@ -1,0 +1,15 @@
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\bin\Debug\net6.0\урок1приветствие.exe
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\bin\Debug\net6.0\урок1приветствие.deps.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\bin\Debug\net6.0\урок1приветствие.runtimeconfig.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\bin\Debug\net6.0\урок1приветствие.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\bin\Debug\net6.0\урок1приветствие.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.csproj.AssemblyReference.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.AssemblyInfoInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.AssemblyInfo.cs
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.csproj.CoreCompileInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\refint\урок1приветствие.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\урок1приветствие.genruntimeconfig.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1приветствие\obj\Debug\net6.0\ref\урок1приветствие.dll
