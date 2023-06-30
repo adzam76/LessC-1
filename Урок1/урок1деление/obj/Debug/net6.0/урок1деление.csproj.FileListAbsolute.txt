@@ -1,0 +1,15 @@
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\bin\Debug\net6.0\урок1деление.exe
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\bin\Debug\net6.0\урок1деление.deps.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\bin\Debug\net6.0\урок1деление.runtimeconfig.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\bin\Debug\net6.0\урок1деление.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\bin\Debug\net6.0\урок1деление.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.csproj.AssemblyReference.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.AssemblyInfoInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.AssemblyInfo.cs
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.csproj.CoreCompileInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\refint\урок1деление.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\урок1деление.genruntimeconfig.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1деление\obj\Debug\net6.0\ref\урок1деление.dll
