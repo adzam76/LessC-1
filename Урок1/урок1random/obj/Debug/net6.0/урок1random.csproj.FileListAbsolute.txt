@@ -1,0 +1,15 @@
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\bin\Debug\net6.0\урок1random.exe
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\bin\Debug\net6.0\урок1random.deps.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\bin\Debug\net6.0\урок1random.runtimeconfig.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\bin\Debug\net6.0\урок1random.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\bin\Debug\net6.0\урок1random.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.csproj.AssemblyReference.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.AssemblyInfoInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.AssemblyInfo.cs
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.csproj.CoreCompileInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\refint\урок1random.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\урок1random.genruntimeconfig.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1random\obj\Debug\net6.0\ref\урок1random.dll
