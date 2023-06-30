@@ -1,0 +1,15 @@
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\bin\Debug\net6.0\урок1Sum.exe
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\bin\Debug\net6.0\урок1Sum.deps.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\bin\Debug\net6.0\урок1Sum.runtimeconfig.json
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\bin\Debug\net6.0\урок1Sum.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\bin\Debug\net6.0\урок1Sum.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.csproj.AssemblyReference.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.AssemblyInfoInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.AssemblyInfo.cs
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.csproj.CoreCompileInputs.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\refint\урок1Sum.dll
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.pdb
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\урок1Sum.genruntimeconfig.cache
+D:\Desktop\Изучение C# повторение\Урок1\урок1Sum\obj\Debug\net6.0\ref\урок1Sum.dll
